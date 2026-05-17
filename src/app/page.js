@@ -52,7 +52,7 @@ export default function PortfolioWebsite() {
         <h2 className="text-4xl font-bold mb-6">About Me</h2>
 
         <p className="text-gray-300 leading-relaxed">
-          I am a finance and business analytics enthusiast based in New Zealand
+          I am a finance and business analytics enthusiast
           with experience in finance operations, business systems, and analytics.
         </p>
       </section>
